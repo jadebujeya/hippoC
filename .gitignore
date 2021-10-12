@@ -1,0 +1,15 @@
+# Dirrectoris
+.vs/
+.vscode/
+bin*/
+logs/
+
+#files
+*.user
+*.DS_STORE
+*.xcworkspace/
+*.xcodeproj/
+*.vcxproj*
+*.sln
+*Makefile
+*.pyc
